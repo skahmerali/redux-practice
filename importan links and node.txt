@@ -1,0 +1,4 @@
+Online payment through stripe
+https://www.youtube.com/watch?v=g8GiODFEmaY
+https://www.altexsoft.com/blog/business/payment-gateway-integration/
+https://www.dreamhost.com/blog/10-online-payment-gateways-compared/
